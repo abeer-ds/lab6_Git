@@ -7,7 +7,7 @@ int main(void) {
 
 
 	int a = 10, b = 5;
-	cout << "\nAddition: " << a + b;
+	cout << "\n Total Addition: " << a + b;
 	cout << "\nSubtraction: " << a - b;
 
 }
