@@ -5,4 +5,9 @@ int main(void) {
 	cout << "Hello World";
 	cout << "Hello Abeer";
 
+
+	int a = 10, b = 5;
+	cout << "\nAddition: " << a + b;
+	cout << "\nSubtraction: " << a - b;
+
 }
